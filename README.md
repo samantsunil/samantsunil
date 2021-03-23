@@ -1,5 +1,4 @@
-### Hello Github community !!!
-🔭 I’m currently learning -- Orchestrating cloud resources for data analytics pipeline deployment (manage resources =>optimize cost & ensure performance)
+
 
 <!--
 **samantsunil/samantsunil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
